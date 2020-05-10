@@ -1,0 +1,42 @@
+h1{
+    display: flex;
+    justify-content: left;
+    padding: 2px;
+    margin-top: 5vh;
+}
+
+#expOnline p{
+    padding: 1vh;
+}
+
+section#container-news{
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    display: inline-flex;
+    margin: 5vh;
+    width: 50vh;
+    height: auto;
+    border-radius: 5px;
+}
+
+div.card-body{
+    width: 100%;
+    height: auto;
+}
+
+#img-dife{
+    width: 50vh;
+    height: auto;
+}
+
+td{
+    display: inline-flex;
+}
+
+.card img{
+    width: 100%;
+    height: 50%;
+}
